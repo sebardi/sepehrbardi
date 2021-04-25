@@ -5,8 +5,8 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sepehr Nikseresht # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'sepehrbardi.netlify.app' # Website URL
+copyright: '© {2021} Sepehr Nikseresht' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
