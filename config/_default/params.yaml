@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: my_font
 font_size: L
 
 # SEO
@@ -21,13 +21,13 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: sepehr.nik96@gmail.com
-phone: +46 729 755 360
+#phone: +46 729 755 360
 address:
 #  street: 450 Serra Mall
-  city: Stockholm
-#  region: CA
+  city: Järfälla
+  region: Sweden
 #  postcode: '94305'
-  country: Sweden
+#  country: Sweden
   country_code: SWE
 #coordinates:
 #  latitude: '37.4275'
@@ -38,10 +38,14 @@ address:
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
+#  - icon: gmail
+#    icon_pack: fab
+#    name: 
+#    link: 'https://www.linkedin.com/in/sepehrnik/'
   - icon: linkedin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: DM me
+    link: 'https://www.linkedin.com/in/sepehrnik/'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
@@ -50,10 +54,10 @@ contact_links:
 #    icon_pack: fab
 #    name: Chat on Keybase
 #    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
