@@ -1,2 +1,2 @@
 # sepehrbardi
-Personal website of Sepehr Nikseresht
+Personal website of Sepehr Bardi
